@@ -1,0 +1,2 @@
+# Hatakon
+SeaBattle
